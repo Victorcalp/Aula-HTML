@@ -1,5 +1,27 @@
+body{
+    font-family: Arial;
+    text-align: center;
+}
+
 .img{
     border-radius: 50%;
+    width: 100px;
+    height: 65px;
+}
+
+.nav{
+    background-color: black;
+}
+
+.alinhamento{
+    padding-top: 25px;    
+}
+
+.image{
     width: 400px;
-    border: 1px solid blue; 
+    height: 300px;
+}
+
+.img-al{
+    padding: 10px;
 }
