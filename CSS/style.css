@@ -1,0 +1,62 @@
+body{
+    font-family: Arial;
+    text-transform: capitalize;
+}
+
+.navbar{
+    background-color: black;
+    
+}
+
+.alinhamento{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+}
+
+.image-quemsou{
+    width: 400px;
+    height: 300px;
+}
+
+.qmsou{
+    background-color: rgb(93, 93, 235);
+    color: black;
+}
+
+.conheciment{
+    background-color: rgb(140, 195, 197);
+    color: black;
+}
+
+.contato{
+    background-color: black;
+    color: whitesmoke;
+    text-transform: none;
+    padding-left: 30px;
+    text-align: center;
+}
+
+.margin{
+    margin-bottom: 20px;
+}
+
+.marginphotos{
+    margin-top: 10px;
+}
+
+.photos{
+    width: 270px;
+    height: 220px;
+}
+
+.contato-list{
+    list-style-type: none;
+    margin-top: -40px;
+    padding-left: 80%;
+    text-align: justify;
+}
+
+.test{
+    margin-top: -20px;
+}
